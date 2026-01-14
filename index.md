@@ -1,18 +1,27 @@
-# Halo 👋
+---
+layout: home
+---
 
-Saya **iOS Developer** dengan pengalaman lebih dari 6 tahun.
+# Danufiq 👋
+**iOS Developer | Swift | SwiftUI**
 
-## Keahlian
+Selamat datang di website GitHub Pages saya.
+
+---
+
+## 🚀 Skills
 - Swift
 - SwiftUI
 - UIKit
 - MVVM
-- REST API
 
-## Proyek
-- 📱 Banking App
-- 📊 Financial Tracking App
+---
 
-## Kontak
-- Email: example@email.com
-- GitHub: https://github.com/username
+## 📱 Projects
+- Banking App
+- Financial App
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Danufiq
